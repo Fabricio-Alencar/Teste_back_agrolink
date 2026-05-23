@@ -49,6 +49,8 @@ def create_app():
             "https://front-agrolink-aff0bvbqd2buhfax.eastus-01.azurewebsites.net/",
             "https://front-agrolink-aff0bvbqd2buhfax.eastus-01.azurewebsites.net",
             "https://back-agrolink-bmbkepbbdkabdhhd.eastus-01.azurewebsites.net", 
+            "https://teste-front-agrolink-e4dee9awewe3e5bk.eastus-01.azurewebsites.net",
+            "https://teste-front-agrolink-e4dee9awewe3e5bk.eastus-01.azurewebsites.net/",
             "https://agro-link.azurewebsites.net",
         ]
     )
