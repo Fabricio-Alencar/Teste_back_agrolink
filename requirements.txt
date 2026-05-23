@@ -1,0 +1,27 @@
+# Servidor de Produção
+gunicorn==23.0.0
+
+# Flask
+Flask>=3.0.0
+flask-cors
+Flask-SQLAlchemy
+Flask-Migrate
+SQLAlchemy
+
+# PostgreSQL
+psycopg2-binary
+
+# Azure Blob Storage
+azure-storage-blob
+
+# Variáveis de ambiente
+python-dotenv
+
+# Utilitários
+requests
+
+# IA / processamento
+pydantic
+pydantic-settings
+pillow
+numpy
